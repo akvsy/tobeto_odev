@@ -8,3 +8,8 @@ PYTEST DECORATORS
 
  **@pytest.mark.skipif :** Belirli bir koşulun doğru olduğu durumlarda testin geçici olarak atlanmasını sağlar. Koşul, parantez içinde bir Python ifadesi olarak verilir.
 **@pytest.mark.xfail:** Bir testin beklediğimiz bir şekilde başarısız olmasını belirtmek için kullanılır.  Testin başarısız olmasının bir sorun olmadığı durumlar için kullanılır.
+
+<div align="left">
+  <img src="https://applitools.com/wp-content/uploads/2018/11/se-ide-logo-large.jpg" height="40" alt="selenium ide"  />
+  <img width="12" />
+</div>
